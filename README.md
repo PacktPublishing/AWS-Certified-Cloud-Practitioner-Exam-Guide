@@ -56,3 +56,6 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 is a senior solutions architect and a consultant, with rich experience of over 20 years in core IT infrastructure services and cloud computing. His work has been focussed on both AWS and Microsoft 365 platforms. More recently, Rajesh has been delivering cloud computing training on AWS certification tracks as a corporate trainer for several clients across the UK, the USA and India. He has also shared his expertise through in-depth published AWS courses for Packt Publishing.
 
 In the years that he has worked as an AWS trainer, he has helped thousands of IT professionals appreciate real-world applications of cloud technologies and become better equipped to facilitate clients' adoption of cloud technologies. Rajesh now delivers bespoke training programs for the Revolent Group, comprising instructor-led training with extended real-world labs and case studies.
+
+## Notes
+* In Chapter08, Prior to starting the Exercise 8.1 in this chapter, you need to create a Security Group named 'AppServers-SG'. The steps are mentioned in the README.md file in Chapter08 folder of this repository  [[README.md]](https://github.com/PacktPublishing/AWS-Certified-Cloud-Practitioner-Exam-Guide/blob/main/Chapter08/README.md)
