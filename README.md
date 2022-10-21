@@ -59,3 +59,7 @@ In the years that he has worked as an AWS trainer, he has helped thousands of IT
 
 ## Notes
 * In Chapter08, Prior to starting the Exercise 8.1 in this chapter, you need to create a Security Group named 'AppServers-SG'. The steps are mentioned in the README.md file in Chapter08 folder of this repository  [[README.md]](https://github.com/PacktPublishing/AWS-Certified-Cloud-Practitioner-Exam-Guide/blob/main/Chapter08/README.md)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781801075930">https://packt.link/free-ebook/9781801075930 </a> </p>
