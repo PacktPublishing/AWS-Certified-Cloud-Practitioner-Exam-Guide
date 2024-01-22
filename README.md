@@ -51,6 +51,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 ### Errata
 * Page 260 (Bullet point 4): Learning about Amazon DynamoDB (**aNoSQL** database solution) _should be_ Learning about Amazon DynamoDB (a **NoSQL** database solution)
+* Page 16 ( Questions section, question 1): "Which of the following six advantages..." _should be_ "Which of the following advantages...."
 
 ### Related products
 * AWS for Solutions Architects  [[Packt]](https://www.packtpub.com/product/aws-for-solutions-architects/9781789539233?utm_source=github&utm_medium=repository&utm_campaign=9781789539233) [[Amazon]](https://www.amazon.com/dp/1789539234)
